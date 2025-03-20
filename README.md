@@ -16,12 +16,12 @@ We build **scalable, intelligent, and efficient AI solutions**, helping business
 
 Our expertise includes:
 
-✅ **Chatbots & RAG Systems** – AI-driven conversational agents for enhanced customer interaction.  
-✅ **Large Language Models (LLMs)** – Custom fine-tuned models tailored for specific industries and applications.  
-✅ **NLP & Deep Learning** – State-of-the-art natural language processing applications.  
-✅ **Computer Vision** – Advanced image and video processing solutions.  
-✅ **Generative AI** – AI-powered content generation, automation, and innovation.  
-✅ **Azure AI & Cloud Deployments** – Scalable AI solutions integrated with cloud infrastructure.  
+- **Chatbots & RAG Systems** – AI-driven conversational agents for enhanced customer interaction.  
+- **Large Language Models (LLMs)** – Custom fine-tuned models tailored for specific industries and applications.  
+- **NLP & Deep Learning** – State-of-the-art natural language processing applications.  
+- **Computer Vision** – Advanced image and video processing solutions.  
+- **Generative AI** – AI-powered content generation, automation, and innovation.  
+- **Azure AI & Cloud Deployments** – Scalable AI solutions integrated with cloud infrastructure.  
 
  **We work with startups, enterprises, and research teams to build AI-powered solutions that drive success.**
 
@@ -29,9 +29,9 @@ Our expertise includes:
 
 ##  Explore Our Work
 
- **Repositories:** Browse our latest AI projects in the [Repositories tab](https://github.com/TheZionProject]).  
- **Documentation & Insights:** Learn from our research and development efforts.  
- **Tools & Libraries:** Discover AI-powered tools, frameworks, and custom implementations.  
+- **Repositories:** Browse our latest AI projects in the [Repositories tab](https://github.com/TheZionProject]).  
+- **Documentation & Insights:** Learn from our research and development efforts.  
+- **Tools & Libraries:** Discover AI-powered tools, frameworks, and custom implementations.  
 
 We are continuously innovating and open-sourcing tools to push AI development forward.
 
@@ -39,18 +39,19 @@ We are continuously innovating and open-sourcing tools to push AI development fo
 
 ##  Get in Touch
 
-**Email:** zioncognitive@gmail.com
-**Website:** https://zion-cognitive.vercel.app/ 
+- **Email:** zioncognitive@gmail.com 
+- **Website:** https://zion-cognitive.vercel.app/ 
 
- **Want to collaborate?** We are open to partnerships, research collaborations, and AI development projects. Feel free to **reach out or open an issue!**
+**Want to collaborate?** We are open to partnerships, research collaborations, and AI development projects. Feel free to **reach out or open an issue!**
 
 
 
 ##  Why Follow Us?
 
- Stay updated on the latest AI innovations.  
- Get insights into AI research and real-world applications.  
- Access cutting-edge AI tools and frameworks.  
- Join a growing community of AI enthusiasts, developers, and researchers.  
+- Stay updated on the latest AI innovations.  
+- Get insights into AI research and real-world applications.  
+- Access cutting-edge AI tools and frameworks.  
+- Join a growing community of AI enthusiasts, developers, and researchers.
+  
  **Follow us on GitHub and star our repositories to stay connected!**
 
