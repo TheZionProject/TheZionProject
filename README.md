@@ -1,4 +1,5 @@
-# Company Website - AI/ML Solutions
+# https://zion-cognitive.vercel.app/
+
 
 This repository contains the codebase and related resources for the company website showcasing our AI/ML expertise and projects.
 
@@ -13,7 +14,6 @@ This website highlights some of our key projects:
 * **Lane_Detection:** A computer vision project focused on real-time lane detection for autonomous driving applications.
 * **Med-Bot:** An NLP-powered chatbot designed to assist medical professionals and patients with information retrieval and support.
 * **Wealth-Visualizer:** A data visualization tool that leverages machine learning to analyze and present financial data in an intuitive way.
-* (Add other projects here...)
 
 ## Contents of this Repository
 
@@ -64,9 +64,3 @@ In addition to the website codebase, consider posting the following on GitHub to
     * This demonstrates your experience with cloud deployments.
 * **Research Papers/Presentations:**
     * If your company conducts any research or gives presentations at conferences, upload these materials to GitHub.
-* **Case Studies:**
-    * Create a repository with case studies. These can be in markdown or PDF format.
-* **Well documented docker files.**
-* **Clear and concise CI/CD examples.**
-* **Project Roadmaps.**
-* **Issue tracking.**
