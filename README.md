@@ -1,4 +1,4 @@
-# https://zion-cognitive.vercel.app/
+# Zion Cognitive - https://zion-cognitive.vercel.app/
 
 
 This repository contains the codebase and related resources for the company website showcasing our AI/ML expertise and projects.
