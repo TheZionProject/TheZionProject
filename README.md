@@ -35,12 +35,13 @@ Our expertise includes:
 
 We are continuously innovating and open-sourcing tools to push AI development forward.
 
+## Access our [website](https://zion-cognitive.vercel.app/) 
 
 
 ##  Get in Touch
 
 - **Email:** zioncognitive@gmail.com 
-- **Website:** https://zion-cognitive.vercel.app/ 
+- **LinkedIn:** https://www.linkedin.com/company/zion-cognitive/
 
 **Want to collaborate?** We are open to partnerships, research collaborations, and AI development projects. Feel free to **reach out or open an issue!**
 
